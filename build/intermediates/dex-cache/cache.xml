@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\workspace\bank31\antGradle\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="E:\workspace\bank31\antGradle\build\intermediates\pre-dexed\release\android-support-v4_7fe5a2152c667da17660ed838823f8258e753e80.jar" />
+    </item>
+
+</items>
